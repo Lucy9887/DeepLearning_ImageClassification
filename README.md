@@ -4,6 +4,5 @@ In this project, we've tried to do image recognition of the Plankton dataset fro
 
 Check the competition: https://www.kaggle.com/c/datasciencebowl/overview
 
-Motivation of the Project:
 
 
